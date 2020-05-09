@@ -1,1 +1,2 @@
-# php-homework-assignment-3
+# PHP Homework Assignment 3
+
